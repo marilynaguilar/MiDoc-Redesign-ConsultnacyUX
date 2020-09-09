@@ -6,14 +6,12 @@ Proyecto colaborativo desarrollado de manera remota con las compañeras de la se
 El objetivo era rediseñar la app y mejorar la comunicación actual entre los médicos y pacientes.
 
 ### 1. Entendimiento del problema
-Como primer paso debíamos entender cuál era el modelo de negocio de este emprendimiento y cómo funcionaba la aplicación, para ello comenzamos realizando entrevistas al Product Owner y al equipo de developers de MiDoc, lo cual nos permitió tener la información precisa de lo que se necesitaba implementar.
-Luego hicimos prueba de aplicación, para revisar los flujos existentes y realizar un Análisis Heurístico, este consistía en hacer una prueba de usabilidad del sistema de ambas plataformas con el fin de encontrar los puntos de dolor y poder trabajar sobre ellos.
+Como primer paso debíamos entender cuál era el modelo de negocio de este emprendimiento y cómo funcionaba la aplicación, para ello comenzamos realizando entrevistas al Product Owner y al equipo de developers de MiDoc.
+Luego hicimos prueba y uso de aplicación, para revisar los flujos existentes y realizar un análisis Heurístico, y evaluar la usabilidad del sistema con el fin de encontrar los puntos de dolor y poder trabajar sobre ellos.
 
-Proyecto colaborativo desarrollado de manera remota con las compañeras de la sede de Ciudad deMéxico de Laboratoria, y de la mano con el emprendimiento mexicano MiDoc.
-El objetivo era construir una plataforma virtual que permita mejorar la comunicación actual entre los médicos y pacientes usuarios de MiDoc.
 
 ### 2. Investigación
-En base a la información obtenida anteriormente, realizamos el benchmark, tanto de la competencia directa como indirecta.
+En base a la información obtenida anteriormente, realizamos un benchmark, tanto de la competencia directa como indirecta.
 Aquí encontramos puntos importantes de como otras empresas habían logrado implementar algunos sistemas como la mensajería.
 
 Luego comenzamos la etapa de las empatizar, para ello realizamos formularios que fueron enviados tanto a médicos y pacientes de las nacionalidades peruanas y mexicanas.
