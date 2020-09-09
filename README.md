@@ -17,7 +17,6 @@ Aquí encontramos puntos importantes de como otras empresas habían logrado impl
 ![image](https://user-images.githubusercontent.com/60928881/92655375-e64d0b80-f2b6-11ea-8024-4a2fa1b5dca2.png)
  
 
-
 Luego comenzamos la etapa de las **empatizar**, para ello realizamos formularios que fueron enviados tanto a médicos y pacientes de las nacionalidades peruanas y mexicanas.
 De todas las encuestas recibidas, obtuvimos que de los **17 pacientes** en méxico el: **78% estaría dispuesto a realizar una consulta por medio de una aplicación como MiDoc , sin embargo no conocían la existencia de una plataforma como esta.** 
 
@@ -33,15 +32,13 @@ Dicha información fue colocada en un affinity map, para poder agrupar de manera
 
 ![image](https://user-images.githubusercontent.com/60928881/92657636-c881a580-f2ba-11ea-9011-f6c247c10d76.png)
 
-
-También se construyó un Emphaty map, el cual nos permitió aterrizar como se sentían los entrevistados y poder encontrar esos hallazgos que nos permitan empatizar con sus necesidades-
-Elaboramos un Customer Journey map, analizando la experiencia de una usuaria real de MiDoc, esto nos permitió observar con mayor claridad las oportunidades de mejora de la aplicación.
-
 ### 3. Síntesis
 Finalizando la investigación, sintetizamos toda esta información obteniendo los insights, aquí detallo los 3 principales desarrollados:
-Consulta a un click: la plataforma debe ser sencilla y accesible para que permita la comunicación fluida entre médico y paciente.
-Diagnóstico Correcto: los médicos deben tener acceso a información relevante del paciente para poder diagnosticarlos de forma correcta y no tener la necesidad de estar adivinando.
-Recetas médicas y tratamientos: los pacientes tienen la necesidad de tener una receta la cual presentar en las farmacias para poder adquirir sus medicamentos, y también deben poder tener por escrito las indicaciones de como tomar dicha medicación.
+> Consulta a un click: la plataforma debe ser sencilla y accesible para que permita la comunicación fluida entre médico y paciente.
+
+> Diagnóstico Correcto: los médicos deben tener acceso a información relevante del paciente para poder diagnosticarlos de forma correcta y no tener la necesidad de estar adivinando.
+
+> Recetas médicas y tratamientos: los pacientes tienen la necesidad de tener una receta la cual presentar en las farmacias para poder adquirir sus medicamentos, y también deben poder tener por escrito las indicaciones de como tomar dicha medicación.
 
 ### 4. Arquitectura de la Información
 Se construyó el diagrama del flujo para ambos usuarios:
