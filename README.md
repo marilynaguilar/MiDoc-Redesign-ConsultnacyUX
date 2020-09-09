@@ -55,7 +55,10 @@ En esta etapa comenzamos haciendo wireframes con papel y lápiz, ya que nos perm
 
 Luego pasamos a prototipar en Figma, en alta fidelidad. A continuación un antes y despues de algunas vistas de las propuesta.
 
-![image](https://user-images.githubusercontent.com/60928881/92662003-7c872e80-f2c3-11ea-85e0-674c31568564.png)
+
+![image](https://user-images.githubusercontent.com/60928881/92662247-0df6a080-f2c4-11ea-9664-452a99f663e4.png)
+
+
 
 
 ### 6. Testeo
