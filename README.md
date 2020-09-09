@@ -16,8 +16,12 @@ Aquí encontramos puntos importantes de como otras empresas habían logrado impl
 
 ![image](https://user-images.githubusercontent.com/60928881/92653027-607b9100-f2b3-11ea-9c0f-e544fd1eab95.png)
 
-Luego comenzamos la etapa de las empatizar, para ello realizamos formularios que fueron enviados tanto a médicos y pacientes de las nacionalidades peruanas y mexicanas.
+Luego comenzamos la etapa de las **empatizar**, para ello realizamos formularios que fueron enviados tanto a médicos y pacientes de las nacionalidades peruanas y mexicanas.
 De todas las encuestas recibidas, obtuvimos valores importantes, como que el 78% estaba dispuesto a realizar una consulta por medio de una aplicación como MiDoc , sin embargo no conocían la existencia de una plataforma como esta.
+![image](https://user-images.githubusercontent.com/60928881/92653328-cb2ccc80-f2b3-11ea-9185-6f9cb925db30.png)
+ 
+
+
 
 De la data de los encuestados, entrevistamos a 6 médicos y 5 pacientes, dicha información fue colocada en un affinity map, para poder agrupar de manera más fácil los puntos importantes encontrados en las entrevistas y posteriormente se construyó el user persona de ambos usuarios:
 
