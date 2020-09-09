@@ -1,6 +1,6 @@
 # Consultoría UX a MiDoc
 
-![1](https://user-images.githubusercontent.com/60928881/92634756-631dbc80-f29a-11ea-8f3b-37c2d722db83.png)
+![2](https://user-images.githubusercontent.com/60928881/92635590-b3e1e500-f29b-11ea-841a-8be051adab62.png)
 
 Proyecto colaborativo desarrollado de manera remota con las compañeras de la sede de Ciudad deMéxico de Laboratoria, y de la mano con el emprendimiento mexicano MiDoc.
 El objetivo era construir una plataforma virtual que permita mejorar la comunicación actual entre los médicos y pacientes usuarios de MiDoc.
