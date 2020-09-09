@@ -29,10 +29,9 @@ Por lado se entrevistó a 6 médicos y 5 pacientes con el objetivo de:
 
 Dicha información fue colocada en un affinity map, para poder agrupar de manera más fácil los puntos importantes encontrados en las entrevistas y posteriormente se construyó el user persona de ambos usuarios:
 
+![image](https://user-images.githubusercontent.com/60928881/92657579-b3a51200-f2ba-11ea-9767-c39a569ce7ea.png)
 
-
-
-
+![image](https://user-images.githubusercontent.com/60928881/92657636-c881a580-f2ba-11ea-9011-f6c247c10d76.png)
 
 
 También se construyó un Emphaty map, el cual nos permitió aterrizar como se sentían los entrevistados y poder encontrar esos hallazgos que nos permitan empatizar con sus necesidades-
