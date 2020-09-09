@@ -33,12 +33,35 @@ Dicha información fue colocada en un affinity map, para poder agrupar de manera
 ![image](https://user-images.githubusercontent.com/60928881/92657636-c881a580-f2ba-11ea-9011-f6c247c10d76.png)
 
 ### 3. Síntesis
+
+**_"Quiero dedicar más tiempo a mi familia que a la cocina"_**
+Me gusta compartir con mi familia y generar experiencias, momentos mas allá del valor,  sin tener que salir de casa
+
+> "Estoy en familia pero sin estar"
+
+**_"Que me solucione la vida"_**
+Siempre busco nuevas opciones para la comida, donde me ofrezcan variedad de platillos, que sea rico y saludable para mi familia, me guió de las recomendaciones para no estar buscando por mucho tiempo, pongo mucha atención en el servicio y que el precio se sustente con la calidad
+
+> "Busco opciones por medio de recomendaciones"
+
+**_"Fast Food in the House"_**
+Antes mis 30 min era solo para ingerir y digerir mi comida, ahora, esos 30 min se tiene que dividir en preparar la comida, comerla y digerirla 
+
+> "Toda la semana como pastas porque es lo que más rápido se cocina"
+
+
+
+
 Finalizando la investigación, sintetizamos toda esta información obteniendo los insights, aquí detallo los 3 principales desarrollados:
-> Consulta a un click: la plataforma debe ser sencilla y accesible para que permita la comunicación fluida entre médico y paciente.
 
-> Diagnóstico Correcto: los médicos deben tener acceso a información relevante del paciente para poder diagnosticarlos de forma correcta y no tener la necesidad de estar adivinando.
+**_" Consulta a un click_**
+>Los pacientes que tienen trabajo o familia necesitan optimizar su tiempo al máximo y con la opción de la videollamada/ llamada optimizarán mucho mejor su tiempo para resolver consultas rápidas, ya que no tienen que gastar tiempo en transporte o sacar la cita y esperar su turno en el hospital, dándole oportunidad de continuar con sus actividades personales.
 
-> Recetas médicas y tratamientos: los pacientes tienen la necesidad de tener una receta la cual presentar en las farmacias para poder adquirir sus medicamentos, y también deben poder tener por escrito las indicaciones de como tomar dicha medicación.
+**_Diagnóstico Correcto**
+>El médico atiende con la mejor predisposición, sin embargo al no poder observar de cerca los síntomas que presenta, puede equivocarse al diagnosticar a su paciente, por eso deben tener acceso a información relevante del paciente para poder diagnosticarlos de forma correcta y no tener la necesidad de estar adivinando.
+
+**_Recetas médicas y Tratamientos**
+>Suelen detallar a sus pacientes las pastillas que va a tomar, los horarios y cantidades, les imprime un papel o envía pdf con las indicaciones para evitar malos entendidos o que lo llamen más tarde preguntando.
 
 ### 4. Arquitectura de la Información
 Se construyó el diagrama del flujo para ambos usuarios:
