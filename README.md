@@ -57,14 +57,8 @@ Luego pasamos a prototipar en Figma, en alta fidelidad. A continuación un antes
 
 ![image](https://user-images.githubusercontent.com/60928881/92662422-64fc7580-f2c4-11ea-8a77-d9550f578cca.png)
 
-## 6. Testeo
-Testeamos el prototipo con 3 pacientes, de este resultaron varias oportunidades de mejora:
+## 6. Anexos de Proyecto
 
-- Indicaciones en la receta: para los pacientes era de suma importancia que las recetas cuenten con indicaciones de como consumir la medicación para no estar llamando nuevamente al médico.
-- Reubicación del tutorial: para los pacientes se les hizo un poco tedioso ver las instrucciones de los pasos a seguir para las llamada y mensajería en la categoría respectiva, sino en su lugar prefiere ver los tutoriales en un apartado del perfil al cual pueda acceder de manera rápida y en cualquier momento.
+- [Prototipo Completo](https://www.figma.com/file/J2SonNqj6pdk4WeAx4GL7t/Prototipo-MiDoc-squadMasguaUX-Copy?node-id=60%3A16)
 
-## 7. Próximos Pasos
-De los testeos también surgieron algunas oportunidades que se podrían implementar en un desarrollo posterior, estas son:
-
-- Agenda: los médicos necesitarán de una agenda para organizar sus consultas con sus pacientes de manera ordenada.
-
+- [Prototipo Navegable](https://www.figma.com/proto/J2SonNqj6pdk4WeAx4GL7t/Prototipo-MiDoc-squadMasguaUX-Copy?node-id=92%3A0&viewport=108%2C659%2C0.0387728177011013&scaling=scale-down)
