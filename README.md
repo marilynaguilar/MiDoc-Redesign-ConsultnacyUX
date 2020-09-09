@@ -53,7 +53,7 @@ Suelen detallar a sus pacientes las pastillas que va a tomar, los horarios y can
 En esta etapa comenzamos haciendo wireframes con papel y lápiz, ya que nos permitía aterrizar nuestras primeras ideas de manera fácil y rápida.
 ![image](https://user-images.githubusercontent.com/60928881/92660563-42685d80-f2c0-11ea-941a-062ed24c063b.png)
 
-Luego pasamos a prototipar en Figma, en alta fidelidad. A continuación un antes y despues de algunas vistas de las propuesta.
+Luego pasamos a prototipar en Figma, en alta fidelidad.
 
 ![image](https://user-images.githubusercontent.com/60928881/92662422-64fc7580-f2c4-11ea-8a77-d9550f578cca.png)
 
