@@ -2,6 +2,9 @@
 
 ![2](https://user-images.githubusercontent.com/60928881/92635590-b3e1e500-f29b-11ea-841a-8be051adab62.png)
 
+
+**MiDoc** es la herramienta de comunicación entre pacientes y doctores. Los médicos pueden generar ingresos por consulta telefónica, porque el consejo de un médico tiene valor y debe ser recompensado.
+
 Proyecto colaborativo desarrollado de manera remota con las compañeras de la sede de Ciudad de México, y de la mano con el emprendimiento mexicano MiDoc.
 El objetivo era rediseñar la app y mejorar la comunicación actual entre los médicos y pacientes.
 
