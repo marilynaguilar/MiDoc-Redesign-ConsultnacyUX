@@ -19,7 +19,7 @@ Aquí encontramos puntos importantes de como otras empresas habían logrado impl
 
 
 Luego comenzamos la etapa de las **empatizar**, para ello realizamos formularios que fueron enviados tanto a médicos y pacientes de las nacionalidades peruanas y mexicanas.
-De todas las encuestas recibidas, obtuvimos valores importantes, como que el 78% estaba dispuesto a realizar una consulta por medio de una aplicación como MiDoc , sin embargo no conocían la existencia de una plataforma como esta.
+De todas las encuestas recibidas, obtuvimos valores importantes, como que **el 78% estaba dispuesto a realizar una consulta por medio de una aplicación como MiDoc , sin embargo no conocían la existencia de una plataforma como esta.**
 ![image](https://user-images.githubusercontent.com/60928881/92655476-1ac0c780-f2b7-11ea-8468-9e3a39d4c037.png)
 
 
