@@ -40,7 +40,7 @@ Dicha información fue colocada en un affinity map, para poder agrupar de manera
 Finalizando la investigación, sintetizamos toda esta información obteniendo los insights, aquí detallo los 3 principales desarrollados:
 
 **_Consulta a un click_**
-Los pacientes que tienen trabajo o familia necesitan optimizar su tiempo al máximo y con la opción de la videollamada/ llamada optimizarán mucho mejor su tiempo para resolver consultas rápidas, ya que no tienen que gastar tiempo en transporte o sacar la cita y esperar su turno en el hospital, dándole oportunidad de continuar con sus actividades personales.
+Los pacientes que tienen trabajo o familia necesitan optimizar su tiempo al máximo y con la opción de la videollamada/ llamada, ya que no tienen que gastar tiempo en transporte o sacar la cita y esperar su turno en el hospital, dándole oportunidad de continuar con sus actividades personales.
 
 **_Diagnóstico Correcto_**
 El médico atiende con la mejor predisposición, sin embargo al no poder observar de cerca los síntomas que presenta, puede equivocarse al diagnosticar a su paciente, por eso deben tener acceso a información relevante del paciente para poder diagnosticarlos de forma correcta y no tener la necesidad de estar adivinando.
@@ -48,15 +48,14 @@ El médico atiende con la mejor predisposición, sin embargo al no poder observa
 **_Recetas médicas y Tratamientos_**
 Suelen detallar a sus pacientes las pastillas que va a tomar, los horarios y cantidades, les imprime un papel o envía pdf con las indicaciones para evitar malos entendidos o que lo llamen más tarde preguntando.
 
-### 4. Arquitectura de la Información
-Se construyó el diagrama del flujo para ambos usuarios:
-Se realizó un card sorting cerrado sólo para el equipo que desarrolla el producto, del cual surgieron varios puntos a modificar en el flujo.
 
 ## 5. Prototipado
 En esta etapa comenzamos haciendo wireframes con papel y lápiz, ya que nos permitía aterrizar nuestras primeras ideas de manera fácil y rápida.
-Image for post
+![image](https://user-images.githubusercontent.com/60928881/92660563-42685d80-f2c0-11ea-941a-062ed24c063b.png)
+
+
 Utilizamos el programa Marvel para darle interacción a nuestro wireframes.
-Image for post
+
 Luego pasamos a prototipar en Figma, en alta fidelidad, primero elaboramos la guía de estilos de la aplicación, creando los componentes a utilizar en toda interfaz, como la tipografía, botones, paleta de colores e íconos.
 Continuando esta etapa aterrizamos todas nuestras ideas creando un prototipo completo con interacciones para una aplicación móvil.
 ### 6. Testeo
