@@ -5,12 +5,12 @@
 Proyecto colaborativo desarrollado de manera remota con las compañeras de la sede de Ciudad de México, y de la mano con el emprendimiento mexicano MiDoc.
 El objetivo era rediseñar la app y mejorar la comunicación actual entre los médicos y pacientes.
 
-### 1. Entendimiento del problema
+## 1. Entendimiento del problema
 Como primer paso debíamos entender cuál era el modelo de negocio de este emprendimiento y cómo funcionaba la aplicación, para ello comenzamos realizando entrevistas al Product Owner y al equipo de developers de MiDoc.
 Luego hicimos prueba y uso de aplicación, para revisar los flujos existentes y realizar un análisis Heurístico, y evaluar la usabilidad del sistema con el fin de encontrar los puntos de dolor y poder trabajar sobre ellos.
 
 
-### 2. Investigación
+## 2. Investigación
 En base a la información obtenida anteriormente, realizamos un benchmark, tanto de la competencia directa como indirecta.
 Aquí encontramos puntos importantes de como otras empresas habían logrado implementar algunos sistemas como la mensajería.
 
@@ -32,7 +32,7 @@ Dicha información fue colocada en un affinity map, para poder agrupar de manera
 
 ![image](https://user-images.githubusercontent.com/60928881/92657636-c881a580-f2ba-11ea-9011-f6c247c10d76.png)
 
-### 3. Síntesis
+## 3. Síntesis
 
 Finalizando la investigación, sintetizamos toda esta información obteniendo los insights, aquí detallo los 3 principales desarrollados:
 
@@ -49,7 +49,7 @@ Suelen detallar a sus pacientes las pastillas que va a tomar, los horarios y can
 Se construyó el diagrama del flujo para ambos usuarios:
 Se realizó un card sorting cerrado sólo para el equipo que desarrolla el producto, del cual surgieron varios puntos a modificar en el flujo.
 
-### 5. Prototipado
+## 5. Prototipado
 En esta etapa comenzamos haciendo wireframes con papel y lápiz, ya que nos permitía aterrizar nuestras primeras ideas de manera fácil y rápida.
 Image for post
 Utilizamos el programa Marvel para darle interacción a nuestro wireframes.
