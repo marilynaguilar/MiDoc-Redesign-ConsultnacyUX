@@ -53,11 +53,11 @@ Suelen detallar a sus pacientes las pastillas que va a tomar, los horarios y can
 En esta etapa comenzamos haciendo wireframes con papel y lápiz, ya que nos permitía aterrizar nuestras primeras ideas de manera fácil y rápida.
 ![image](https://user-images.githubusercontent.com/60928881/92660563-42685d80-f2c0-11ea-941a-062ed24c063b.png)
 
+Luego pasamos a prototipar en Figma, en alta fidelidad. A continuación un antes y despues de algunas vistas de las propuesta.
 
-Utilizamos el programa Marvel para darle interacción a nuestro wireframes.
+![image](https://user-images.githubusercontent.com/60928881/92662003-7c872e80-f2c3-11ea-85e0-674c31568564.png)
 
-Luego pasamos a prototipar en Figma, en alta fidelidad, primero elaboramos la guía de estilos de la aplicación, creando los componentes a utilizar en toda interfaz, como la tipografía, botones, paleta de colores e íconos.
-Continuando esta etapa aterrizamos todas nuestras ideas creando un prototipo completo con interacciones para una aplicación móvil.
+
 ### 6. Testeo
 Testeamos el prototipo con 3 pacientes, de este resultaron varias oportunidades de mejora:
 -Indicaciones en la receta: para los pacientes era de suma importancia que las recetas cuenten con indicaciones de como consumir la medicación para no estar llamando nuevamente al médico.
