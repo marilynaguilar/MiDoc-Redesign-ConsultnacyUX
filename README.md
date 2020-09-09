@@ -22,11 +22,10 @@ Luego comenzamos la etapa de las **empatizar**, para ello realizamos formularios
 De todas las encuestas recibidas, obtuvimos que de los **17 pacientes** en méxico el: **78% estaría dispuesto a realizar una consulta por medio de una aplicación como MiDoc , sin embargo no conocían la existencia de una plataforma como esta.** 
 
 
-Por lado se entrevisto a 6 médicos y 5 pacientes con el objetivo de:
+Por lado se entrevistó a 6 médicos y 5 pacientes con el objetivo de:
 
-_- Conocer las motivaciones, necesidades y experiencias de los pacientes respecto a las comunicaciones con sus médicos .
-
-_- La familiaridad de los médicos con las opciones digitales para usarlas en su día a día.
+- Conocer las motivaciones, necesidades y experiencias de los pacientes respecto a las comunicaciones con sus médicos .
+- La familiaridad de los médicos con las opciones digitales para usarlas en su día a día.
 
 Dicha información fue colocada en un affinity map, para poder agrupar de manera más fácil los puntos importantes encontrados en las entrevistas y posteriormente se construyó el user persona de ambos usuarios:
 
