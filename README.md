@@ -1,4 +1,4 @@
-# Consultoría UX - App MiDoc
+# Consultoría UX - MiDoc
 
 ![2](https://user-images.githubusercontent.com/60928881/92635590-b3e1e500-f29b-11ea-841a-8be051adab62.png)
 
