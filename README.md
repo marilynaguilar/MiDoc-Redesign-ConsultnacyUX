@@ -14,7 +14,8 @@ Luego hicimos prueba y uso de aplicación, para revisar los flujos existentes y 
 En base a la información obtenida anteriormente, realizamos un benchmark, tanto de la competencia directa como indirecta.
 Aquí encontramos puntos importantes de como otras empresas habían logrado implementar algunos sistemas como la mensajería.
 
-![image](https://user-images.githubusercontent.com/60928881/92655261-bc93e480-f2b6-11ea-9597-f2ae8ee4d612.png)
+![image](https://user-images.githubusercontent.com/60928881/92655375-e64d0b80-f2b6-11ea-8024-4a2fa1b5dca2.png)
+ 
 
 
 Luego comenzamos la etapa de las **empatizar**, para ello realizamos formularios que fueron enviados tanto a médicos y pacientes de las nacionalidades peruanas y mexicanas.
