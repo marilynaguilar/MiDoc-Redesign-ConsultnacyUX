@@ -57,15 +57,14 @@ Luego pasamos a prototipar en Figma, en alta fidelidad. A continuación un antes
 
 ![image](https://user-images.githubusercontent.com/60928881/92662422-64fc7580-f2c4-11ea-8a77-d9550f578cca.png)
 
-
-
-
-
-### 6. Testeo
+## 6. Testeo
 Testeamos el prototipo con 3 pacientes, de este resultaron varias oportunidades de mejora:
--Indicaciones en la receta: para los pacientes era de suma importancia que las recetas cuenten con indicaciones de como consumir la medicación para no estar llamando nuevamente al médico.
--Reubicación del tutorial: para los pacientes se les hizo un poco tedioso ver las instrucciones de los pasos a seguir para las llamada y mensajería en la categoría respectiva, sino en su lugar prefiere ver los tutoriales en un apartado del perfil al cual pueda acceder de manera rápida y en cualquier momento.
-7. Próximos Pasos
+
+- Indicaciones en la receta: para los pacientes era de suma importancia que las recetas cuenten con indicaciones de como consumir la medicación para no estar llamando nuevamente al médico.
+- Reubicación del tutorial: para los pacientes se les hizo un poco tedioso ver las instrucciones de los pasos a seguir para las llamada y mensajería en la categoría respectiva, sino en su lugar prefiere ver los tutoriales en un apartado del perfil al cual pueda acceder de manera rápida y en cualquier momento.
+
+## 7. Próximos Pasos
 De los testeos también surgieron algunas oportunidades que se podrían implementar en un desarrollo posterior, estas son:
--Agenda: los médicos necesitarían de una agenda para organizar sus consultas con sus pacientes de manera ordenanda.
-Y como futuros pasos consideramos que el tetseo de este producto mínimo viable debería darse con los Médicos usuarios de MiDoc, ya que debido al tiempo limitado de estos usuarios no se logró concretar.
+
+- Agenda: los médicos necesitarán de una agenda para organizar sus consultas con sus pacientes de manera ordenada.
+
