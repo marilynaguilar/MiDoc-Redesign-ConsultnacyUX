@@ -14,7 +14,8 @@ Luego hicimos prueba y uso de aplicación, para revisar los flujos existentes y 
 En base a la información obtenida anteriormente, realizamos un benchmark, tanto de la competencia directa como indirecta.
 Aquí encontramos puntos importantes de como otras empresas habían logrado implementar algunos sistemas como la mensajería.
 
-![image](https://user-images.githubusercontent.com/60928881/92653027-607b9100-f2b3-11ea-9c0f-e544fd1eab95.png)
+![image](https://user-images.githubusercontent.com/60928881/92654155-0bd91580-f2b5-11ea-98c0-ec20167b8135.png)
+
 
 Luego comenzamos la etapa de las **empatizar**, para ello realizamos formularios que fueron enviados tanto a médicos y pacientes de las nacionalidades peruanas y mexicanas.
 De todas las encuestas recibidas, obtuvimos valores importantes, como que el 78% estaba dispuesto a realizar una consulta por medio de una aplicación como MiDoc , sin embargo no conocían la existencia de una plataforma como esta.
