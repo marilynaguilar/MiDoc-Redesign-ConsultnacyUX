@@ -59,7 +59,7 @@ Luego pasamos a prototipar en Figma, en alta fidelidad.
 
 ## 6. Anexos de Proyecto
 
-- [Prototipo Completo](https://www.figma.com/file/J2SonNqj6pdk4WeAx4GL7t/Prototipo-MiDoc-squadMasguaUX-Copy?node-id=60%3A16)
+- [Prototipo Navegable](https://www.figma.com/proto/J2SonNqj6pdk4WeAx4GL7t/MiDoc?node-id=92%3A0&scaling=min-zoom)
 
 
 ![image](https://user-images.githubusercontent.com/60928881/93248575-a2925000-f755-11ea-99dc-fe24d55c9efa.png)
