@@ -61,6 +61,7 @@ Luego pasamos a prototipar en Figma, en alta fidelidad.
 
 - [Prototipo Navegable](https://www.figma.com/proto/J2SonNqj6pdk4WeAx4GL7t/MiDoc?node-id=92%3A0&scaling=min-zoom)
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FJ2SonNqj6pdk4WeAx4GL7t%2FMiDoc%3Fnode-id%3D92%253A0%26scaling%3Dmin-zoom&chrome=DOCUMENTATION" allowfullscreen></iframe>
 
 ![image](https://user-images.githubusercontent.com/60928881/93248575-a2925000-f755-11ea-99dc-fe24d55c9efa.png)
 
