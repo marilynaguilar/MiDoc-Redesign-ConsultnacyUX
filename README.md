@@ -63,9 +63,8 @@ Luego pasamos a prototipar en Figma, en alta fidelidad.
 
 - [Prototipo Navegable](https://www.figma.com/proto/J2SonNqj6pdk4WeAx4GL7t/Prototipo-MiDoc-squadMasguaUX-Copy?node-id=92%3A0&viewport=108%2C659%2C0.0387728177011013&scaling=scale-down)
 
-![image](https://user-images.githubusercontent.com/60928881/93248321-4deed500-f755-11ea-8e3f-1ae3afe4baf8.png)
 
-
+![image](https://user-images.githubusercontent.com/60928881/93248575-a2925000-f755-11ea-99dc-fe24d55c9efa.png)
 
 
 
